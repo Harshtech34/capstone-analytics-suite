@@ -1,0 +1,21 @@
+CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,PaperlessBilling,SeniorCitizen,Churn
+C00001,6,64,1540,One year,Credit Card,No,1,0
+C00002,21,113,1753,Month-to-month,Electronic Check,Yes,1,0
+C00003,27,31,1455,Two year,Credit Card,No,1,0
+C00004,53,29,7150,Month-to-month,Electronic Check,No,1,0
+C00005,16,185,1023,One year,Electronic Check,No,1,0
+C00006,55,44,7538,Two year,Electronic Check,No,0,0
+C00007,66,99,4178,Two year,Bank Transfer,No,1,0
+C00008,61,128,3088,Month-to-month,Bank Transfer,No,1,0
+C00009,64,124,7973,Month-to-month,Credit Card,No,1,0
+C00010,14,120,5844,One year,Bank Transfer,Yes,1,0
+C00011,59,57,5168,One year,Credit Card,Yes,0,0
+C00012,7,110,7282,Month-to-month,Electronic Check,No,1,1
+C00013,53,86,3438,Month-to-month,Bank Transfer,Yes,1,0
+C00014,8,158,6194,Month-to-month,Credit Card,No,1,1
+C00015,53,58,768,Month-to-month,Credit Card,Yes,1,0
+C00016,65,77,4071,Month-to-month,Credit Card,Yes,1,0
+C00017,19,187,4874,Two year,Credit Card,No,0,0
+C00018,42,101,3736,One year,Bank Transfer,Yes,0,0
+C00019,7,156,5389,One year,Bank Transfer,Yes,0,1
+C00020,26,105,6868,Month-to-month,Bank Transfer,Yes,1,0
